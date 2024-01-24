@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet title="XSL formatting" type="text/xsl" href="https://www.cookliv.com/feed/rss2/xslt" ?><rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Cookliv - Cocktails</title>
+  <link>https://www.cookliv.com/</link>
+  <atom:link href="https://www.cookliv.com/feed/category/catalogue/cocktails/rss2" rel="self" type="application/rss+xml"/>
+  <description>Traiteur Rouen et Normandie, livraison à domicile ou au bureau : repas fête, réceptions, cocktails,... Composition sur mesure, passez commande !</description>
+  <language>fr</language>
+  <pubDate>Tue, 23 Jan 2024 12:20:00 +0100</pubDate>
+  <copyright></copyright>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <generator>Dotclear</generator>
+  
+    
+  <item>
+    <title>Organisez votre anniversaire sans prise de tête !</title>
+    <link>https://www.cookliv.com/post/organisez-votre-anniversaire-sans-prise-de-tete</link>
+    <guid isPermaLink="false">urn:md5:52f70a95e5b66efb4eb62d2e341fadb0</guid>
+    <pubDate>Tue, 16 May 2023 12:37:00 +0200</pubDate>
+    <dc:creator>Marketing</dc:creator>
+        <category>Cocktails</category>
+            
+    <description>    &lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;Organisez&amp;nbsp;votre anniversaire &amp;agrave; domicile sans prise de t&amp;ecirc;te avec Cookliv&amp;nbsp;! Optez pour la simplicit&amp;eacute; et profitez d&amp;rsquo;un cocktail d&amp;icirc;natoire ou d&amp;#39;un buffet froid, livr&amp;eacute; &amp;agrave; votre domicile par nos soins. Pour un moment de partage et de convivialit&amp;eacute; autour de bons produit !&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Pour commander, rendez-vous sur cookliv.com ou contactez nous : 02 35 75 58 58&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Besoin d&amp;#39;aide pour les quantit&amp;eacute; ? C&amp;#39;est ici :&amp;nbsp;&lt;/span&gt; &lt;a href=&quot;https://www.cookliv.com/pages/aide-pour-les-quantites&quot;&gt;Aide pour les quantit&amp;eacute;s - Cookliv&lt;/a&gt;&lt;/p&gt;</description>
+    
+    
+    
+      </item>
+    
+</channel>
+</rss>

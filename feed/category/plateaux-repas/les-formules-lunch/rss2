@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet title="XSL formatting" type="text/xsl" href="https://www.cookliv.com/feed/rss2/xslt" ?><rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Cookliv - Formules Lunch Cookbag</title>
+  <link>https://www.cookliv.com/</link>
+  <atom:link href="https://www.cookliv.com/feed/category/plateaux-repas/les-formules-lunch/rss2" rel="self" type="application/rss+xml"/>
+  <description>Traiteur Rouen et Normandie, livraison à domicile ou au bureau : repas fête, réceptions, cocktails,... Composition sur mesure, passez commande !</description>
+  <language>fr</language>
+  <pubDate>Tue, 23 Jan 2024 12:20:00 +0100</pubDate>
+  <copyright></copyright>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <generator>Dotclear</generator>
+  
+    
+  <item>
+    <title>Connaissez-vous nos Cookbags ?</title>
+    <link>https://www.cookliv.com/post/connaissez-vous-nos-cookbags</link>
+    <guid isPermaLink="false">urn:md5:19b77557f431a87a2154056501b5de60</guid>
+    <pubDate>Mon, 26 Jun 2023 11:44:00 +0200</pubDate>
+    <dc:creator>Marketing</dc:creator>
+        <category>Formules Lunch Cookbag</category>
+            
+    <description>    &lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Avez-vous d&amp;eacute;j&amp;agrave; go&amp;ucirc;t&amp;eacute; nos &lt;strong&gt;Cookbags&lt;/strong&gt; ? &lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;D&amp;eacute;couvrez nos 3 formules de plateaux-repas Cookbags (entr&amp;eacute;e - plat - dessert) : &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#95bc20;&quot;&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;A BABORD : Burger poulet, crudit&amp;eacute;s et sauce curry &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#95bc20;&quot;&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;A TRIBORD : Pain polaire fromager et truite fum&amp;eacute;e &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#95bc20;&quot;&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MANGER TOUT CRU : Burger v&amp;eacute;g&amp;eacute;tarien, crudit&amp;eacute;s &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Accompagn&amp;eacute;s de &lt;/span&gt;&lt;span style=&quot;color:#95bc20;&quot;&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;salade de p&amp;acirc;tes italiennes&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; en entr&amp;eacute;e et d&amp;#39;une &lt;/span&gt;&lt;span style=&quot;color:#95bc20;&quot;&gt;&lt;span style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Dacquoise citron vert, chocolat blanc&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; en dessert ! &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ainsi que de son eau de source 50cl et de ses couverts. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Alors, tent&amp;eacute; ?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    
+    
+    
+      </item>
+    
+</channel>
+</rss>

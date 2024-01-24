@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet title="XSL formatting" type="text/xsl" href="https://www.cookliv.com/feed/rss2/xslt" ?><rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Cookliv - Côté Salé !</title>
+  <link>https://www.cookliv.com/</link>
+  <atom:link href="https://www.cookliv.com/feed/category/catalogue/nos-abonnements-convivialite/cote-sale/rss2" rel="self" type="application/rss+xml"/>
+  <description>Traiteur Rouen et Normandie, livraison à domicile ou au bureau : repas fête, réceptions, cocktails,... Composition sur mesure, passez commande !</description>
+  <language>fr</language>
+  <pubDate>Tue, 23 Jan 2024 12:20:00 +0100</pubDate>
+  <copyright></copyright>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <generator>Dotclear</generator>
+  
+    
+  <item>
+    <title>Les afterwork de la rentrée 2023 !</title>
+    <link>https://www.cookliv.com/post/les-afterwork-de-la-rentree-2023</link>
+    <guid isPermaLink="false">urn:md5:c6dd8bbb99da4129789cd25410825e6e</guid>
+    <pubDate>Thu, 31 Aug 2023 11:43:00 +0200</pubDate>
+    <dc:creator>Cookliv-Johanna</dc:creator>
+        <category>Côté Salé !</category>
+            
+    <description>    &lt;p&gt;Commandez le lundi et recevez votre cocktail ap&amp;eacute;ritif le jeudi pour votre afterwork !&lt;img src=&quot;https://chart.googleapis.com/chart?cht=qr&amp;amp;chs=300x300&amp;amp;chl=https://www.cookliv.com/p/2967616&quot; style=&quot;height: 130px; width: 130px; float: right;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un &amp;eacute;v&amp;eacute;nement professionnel dans une ambiance de partage et convivialit&amp;eacute;.&lt;/p&gt;
+
+&lt;p&gt;Une livraison au bureau en sac isotherme pour un max de fra&amp;icirc;cheur.&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:lucida sans unicode,lucida grande,sans-serif;&quot;&gt;&lt;em&gt;Scannez moi !&lt;/em&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    
+    
+    
+      </item>
+    
+</channel>
+</rss>

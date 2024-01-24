@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet title="XSL formatting" type="text/xsl" href="https://www.cookliv.com/feed/rss2/xslt" ?><rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Cookliv - Carte été PRF</title>
+  <link>https://www.cookliv.com/</link>
+  <atom:link href="https://www.cookliv.com/feed/category/cartes/carte-ete-2022/rss2" rel="self" type="application/rss+xml"/>
+  <description>Traiteur Rouen et Normandie, livraison à domicile ou au bureau : repas fête, réceptions, cocktails,... Composition sur mesure, passez commande !</description>
+  <language>fr</language>
+  <pubDate>Tue, 23 Jan 2024 12:20:00 +0100</pubDate>
+  <copyright></copyright>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <generator>Dotclear</generator>
+  
+    
+  <item>
+    <title>Une réunion à l’heure du déjeuner ? On vous livre !</title>
+    <link>https://www.cookliv.com/post/une-reunion-a-lheure-du-dejeuner-on-vous-livre</link>
+    <guid isPermaLink="false">urn:md5:e373a1a362830dac0bdfdeaddf748887</guid>
+    <pubDate>Tue, 09 May 2023 16:57:00 +0200</pubDate>
+    <dc:creator>Marketing</dc:creator>
+        <category>Carte été PRF</category>
+            
+    <description>    &lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;Nos plateaux repas sont &lt;strong&gt;la solution&lt;/strong&gt; pour un d&amp;eacute;jeuner au bureau rapide, complet et gourmand !&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;A retrouver actuellement : 8 formules plateaux repas &amp;quot;News&amp;quot;, pour tous les gouts : V&amp;eacute;g&amp;eacute;, viandes ou poissons, &amp;agrave; chaque personnalit&amp;eacute; son repas ! &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;em&gt;(Plateaux repas &amp;agrave; commander avant 12h pour le lendemain)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;Et pour les retardataires, une formule derni&amp;egrave;re minute vous est propos&amp;eacute;e, &amp;agrave; commander jusqu&amp;#39;&amp;agrave; 9h30 le jour m&amp;ecirc;me.&lt;/span&gt;&lt;/p&gt;</description>
+    
+    
+    
+      </item>
+    
+</channel>
+</rss>
